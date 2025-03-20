@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\empresatds01\\padaria\\frmpesquisarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmpesquisarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\empresatds01\\padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\empresatds01\\padaria\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\empresatds01\\padaria\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\empresatds01\\padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|c:\\users\\pedro.asebastiao\\documents\\visual studio 2022\\empresatds01\\padaria\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\padaria\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9771BA43-F876-4DF7-917C-FB38205B035D}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmsplash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,6 +39,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\Program.cs",
+              "RelativeDocumentMoniker": "Padaria\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\Program.cs",
+              "RelativeToolTip": "Padaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:46:16.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPesquisarFuncionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmPesquisarFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmPesquisarFuncionarios.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmPesquisarFuncionarios.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmPesquisarFuncionarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:27:24.935Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:07:40.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmFuncionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmFuncionarios.cs",
+              "ToolTip": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmFuncionarios.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmFuncionarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:18:10.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "frmSplash.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmSplash.cs",
               "RelativeDocumentMoniker": "Padaria\\frmSplash.cs",
@@ -34,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "frmMenuPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pedro.asebastiao\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmMenuPrincipal.cs",
               "RelativeDocumentMoniker": "Padaria\\frmMenuPrincipal.cs",

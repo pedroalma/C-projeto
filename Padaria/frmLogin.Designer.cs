@@ -44,7 +44,7 @@
             this.ptbLogin.Image = ((System.Drawing.Image)(resources.GetObject("ptbLogin.Image")));
             this.ptbLogin.Location = new System.Drawing.Point(197, 162);
             this.ptbLogin.Name = "ptbLogin";
-            this.ptbLogin.Size = new System.Drawing.Size(202, 189);
+            this.ptbLogin.Size = new System.Drawing.Size(202, 200);
             this.ptbLogin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptbLogin.TabIndex = 0;
             this.ptbLogin.TabStop = false;
@@ -77,7 +77,7 @@
             this.txtSenha.MaxLength = 15;
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.PasswordChar = 'l';
-            this.txtSenha.Size = new System.Drawing.Size(134, 25);
+            this.txtSenha.Size = new System.Drawing.Size(178, 25);
             this.txtSenha.TabIndex = 1;
             // 
             // txtUsuario
@@ -86,29 +86,35 @@
             this.txtUsuario.Location = new System.Drawing.Point(422, 199);
             this.txtUsuario.MaxLength = 30;
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(134, 26);
+            this.txtUsuario.Size = new System.Drawing.Size(178, 26);
             this.txtUsuario.TabIndex = 0;
             this.txtUsuario.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // btnEntrar
             // 
             this.btnEntrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEntrar.Location = new System.Drawing.Point(503, 320);
+            this.btnEntrar.Image = ((System.Drawing.Image)(resources.GetObject("btnEntrar.Image")));
+            this.btnEntrar.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
+            this.btnEntrar.Location = new System.Drawing.Point(508, 320);
             this.btnEntrar.Name = "btnEntrar";
-            this.btnEntrar.Size = new System.Drawing.Size(75, 31);
+            this.btnEntrar.Size = new System.Drawing.Size(92, 42);
             this.btnEntrar.TabIndex = 3;
             this.btnEntrar.Text = "Entrar";
+            this.btnEntrar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnEntrar.UseVisualStyleBackColor = true;
             this.btnEntrar.Click += new System.EventHandler(this.Entrar_Click);
             // 
             // btnSair
             // 
             this.btnSair.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSair.Image = ((System.Drawing.Image)(resources.GetObject("btnSair.Image")));
+            this.btnSair.ImageAlign = System.Drawing.ContentAlignment.BottomLeft;
             this.btnSair.Location = new System.Drawing.Point(422, 320);
             this.btnSair.Name = "btnSair";
-            this.btnSair.Size = new System.Drawing.Size(75, 31);
+            this.btnSair.Size = new System.Drawing.Size(80, 42);
             this.btnSair.TabIndex = 2;
             this.btnSair.Text = "Sair";
+            this.btnSair.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnSair.UseVisualStyleBackColor = true;
             this.btnSair.Click += new System.EventHandler(this.button2_Click);
             // 
